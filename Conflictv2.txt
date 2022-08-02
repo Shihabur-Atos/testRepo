@@ -1,1 +1,3 @@
-I am not a conflict
+<<<<<<< HEAD
+I am not a conflict. leave me alone
+=======
